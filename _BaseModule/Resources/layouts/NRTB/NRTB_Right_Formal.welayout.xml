@@ -9,7 +9,7 @@
       <arrayInstances x="1" y="1" z="1" />
       <arraySpacing x="0" y="0" z="0" />
     </transform>
-    <imageMesh atlas="MaestroGermanSigns:Ger Misc">
+    <imageMesh atlas="baipin-HongKongsigns:NRTB">
       <mesh></mesh>
       <image>NRTB_right</image>
     </imageMesh>
@@ -37,7 +37,7 @@
         <arrayInstances x="1" y="1" z="1" />
         <arraySpacing x="0" y="0" z="0" />
       </transform>
-      <imageMesh atlas="MaestroGermanSigns:Ger Misc">
+      <imageMesh atlas="baipin-HongKongsigns:NRTB">
         <mesh></mesh>
         <image>NRTB_back</image>
       </imageMesh>
@@ -55,4 +55,5 @@
       </defaultStyle>
     </self>
   </children>
+
 </WELayout>

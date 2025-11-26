@@ -1,5 +1,5 @@
 <WELayout>
-  <self itemName="New item">
+  <self itemName="Front">
     <transform alignment="Left" arrayAxisOrder="XYZ">
       <offsetPosition x="0" y="1.435" z="0.02" />
       <offsetRotation x="-0" y="0" z="0" />
@@ -27,7 +27,7 @@
     </defaultStyle>
   </self>
   <children>
-    <self itemName="New item">
+    <self itemName="Back">
       <transform alignment="Left" arrayAxisOrder="XYZ">
         <offsetPosition x="0.004921288" y="-0.009854354" z="-0.0419246778" />
         <offsetRotation x="-0" y="180.999985" z="359.6" />
@@ -57,3 +57,4 @@
   </children>
 
 </WELayout>
+
